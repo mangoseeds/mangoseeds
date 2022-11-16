@@ -5,7 +5,7 @@ GITHUB Streaks
 --->
   
   <h1 align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=ayu-light&show)"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangoseeds&theme=ayu-light&show)"  />
 
   
  
@@ -29,7 +29,7 @@ LANG STATS
 
 <!-- <p align="center">
  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangoseeds&theme=radical&layout=compact"  width="500px"  />
  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
  </p> -->
 
