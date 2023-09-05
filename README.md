@@ -14,7 +14,7 @@ GITHUB STATS
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mangoseeds&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="500px" />
 
   <div>
-    <p>Let's Connect</p> 
+    <p>Let's Connect!</p> 
     <!--<img src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
     <img src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="20px">  
      -->
