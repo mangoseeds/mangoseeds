@@ -16,7 +16,7 @@ GITHUB STATS
 <h1 align="center"> 
   <div>
     <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
-    <p font-family=Calibri">Let's Connect</p> 
+    <p style ="font-family:Calibri">Let's Connect</p> 
     <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
     <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="20px">  
   </div>
