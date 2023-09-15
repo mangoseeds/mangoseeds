@@ -7,10 +7,12 @@
   </div>
 
   <div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mangoseeds&theme=github-light&show)"  width="500px"  />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangoseeds&theme=github-light&show)"  width="500px"  />
     <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangoseeds&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="500px" /> -->
   </div>
-    
+
+  <br><br>
+  
   <div>
     <h2 align="center">Let's Connect!</h2> 
     <!--<img src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
